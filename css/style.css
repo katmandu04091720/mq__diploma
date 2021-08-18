@@ -32,7 +32,7 @@ a {
     position: relative;
     padding: 28px 15px 129px;
     background-color: #000000;
-    background-image: url(/images/banner-bg.jpg);
+    background-image: url(../images/banner-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -232,19 +232,19 @@ a {
 }
   
 .trends__garden {
-    background-image: url(/images/trend1.jpg);
+    background-image: url(../images/trend1.jpg);
 }
   
 .trends__cheese {
-    background-image: url(/images/trend2.jpg);
+    background-image: url(../images/trend2.jpg);
 }
   
 .trends__travel {
-    background-image: url(/images/trend3.jpg);
+    background-image: url(../images/trend3.jpg);
 }
   
 .trends__vitamine {
-    background-image: url(/images/trend4.jpg);
+    background-image: url(../images/trend4.jpg);
 }
   
 .trends__item::after {
@@ -458,7 +458,7 @@ p span {
 .search__button {
     border: none;
     width: 47px;
-    background-image: url(/svg/search.svg);
+    background-image: url(../svg/search.svg);
     background-repeat: no-repeat;
     background-size: 16px;
     background-position: center;
@@ -720,24 +720,24 @@ p span {
 }
 
 .socials__link__pinterest {
-    background-image: url(/svg/001-pinterest.svg);
+    background-image: url(../svg/001-pinterest.svg);
 }
 
 .socials__link__twitter {
-    background-image: url(/svg/004-twitter.svg);
+    background-image: url(../svg/004-twitter.svg);
 }
 
 .socials__link__facebook {
-    background-image: url(/svg/002-facebook-logo.svg);
+    background-image: url(../svg/002-facebook-logo.svg);
     background-size: contain;
 }
 
 .socials__link__instagram {
-    background-image: url(/svg/005-instagram.svg);
+    background-image: url(../svg/005-instagram.svg);
 }
 
 .socials__link__tumblr {
-    background-image: url(/svg/003-tumblr.svg);
+    background-image: url(../svg/003-tumblr.svg);
 }
 
 .social__icons {
@@ -790,7 +790,7 @@ p span {
     padding: 0;
     text-indent: -9999px;
     cursor: pointer;
-    background-image: url(/svg/form-x.svg);
+    background-image: url(../svg/form-x.svg);
 }
   
 .feedback {
@@ -824,7 +824,7 @@ p span {
     opacity: 0.54;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(/svg/form-arrows.svg);
+    background-image: url(../svg/form-arrows.svg);
     background-repeat: no-repeat;
     background-position: right 15px center;
     background-size: 8px;
@@ -839,7 +839,7 @@ option {
     display: inline-block;
     width: 17px;
     height: 17px;
-    background-image: url(/svg/form-empty-circle.svg);
+    background-image: url(../svg/form-empty-circle.svg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 17px;
@@ -858,7 +858,7 @@ option {
 }
 
 .radio:checked ~ .radio__group__text::before {
-    background-image: url(/svg/form-circle.svg);
+    background-image: url(../svg/form-circle.svg);
 }
   
 .radio {
@@ -896,7 +896,7 @@ option {
     .heading {
       padding: 42px 35px 111px;
       margin-bottom: 46px;
-      background-image: url(/images/banner-bg-tablet.jpg);
+      background-image: url(../images/banner-bg-tablet.jpg);
     }
   
     .logo {
@@ -1055,7 +1055,7 @@ option {
     .heading {
       padding: 25px 15px 210px;
       margin-bottom: 44px;
-      background-image: url(/images/banner-mobile.jpg);
+      background-image: url(../images/banner-mobile.jpg);
     }
   
     .heading__content {
